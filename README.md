@@ -1,4 +1,4 @@
-We have to identify what will be the sales price of ahouse, provided attributes of it.
+We have to identify what will be the sales price of a house, provided attributes of it.
 
 In this notebook i am trying to analyze how different ML modal performs on a regression problem and what happens when we apply scaling, hyperparameter tuning and other various technique to improve their performance.
 
